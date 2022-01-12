@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.e4d6645c.js",
+    "static/js/787.29f03a7c.chunk.js": "/static/js/787.29f03a7c.chunk.js",
+    "static/media/BackgroundVideo.mp4": "/static/media/BackgroundVideo.d28831bc5d9eeb4a9a44.mp4",
+    "static/media/hekaWhiteLogo.png": "/static/media/hekaWhiteLogo.ebf7cac1c2ee1baf46a9.png",
+    "static/media/linkedin.png": "/static/media/linkedin.d21b834035baa551e886.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.e4d6645c.js.map": "/static/js/main.e4d6645c.js.map",
+    "787.29f03a7c.chunk.js.map": "/static/js/787.29f03a7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e4d6645c.js"
+  ]
+}
